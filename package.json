@@ -2,7 +2,7 @@
   "name": "bhargab.com.np",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhrg3se.github.io/",
+  "homepage": "https://bhrg3se.gitlab.io/",
   "dependencies": {
     "react": "^16.7.0",
     "react-avatar": "^3.5.0",
