@@ -5,7 +5,7 @@ import notBug from './notbug.gif'
 import './App.css';
 import { SocialIcon } from 'react-social-icons';
 import Avatar from 'react-avatar';
-import { Input, Menu, Button } from 'semantic-ui-react'
+
 
 class App extends Component {
 
