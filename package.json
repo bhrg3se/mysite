@@ -28,7 +28,7 @@
     "caniuse-lite": "1.0.30000974"
   },
   "browserslist": [
-    
+
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1",

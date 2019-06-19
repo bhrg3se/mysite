@@ -24,7 +24,7 @@ class App extends Component {
             Hi
           </p>
             <p>I am a full stack developer from Nepal.</p>
-            <p>Besides <a >programming</a> I love <a>movies</a>, <a>psychology</a> and <a>philosophy</a>  .</p>
+            <p>Besides programming, I love movies, psychology and philosophy  .</p>
             <p>AND MEMES!!!</p>
 
             <p>It ain't much but check out my <a href={"https://blog.bhargab.com.np"} style={{color:"darkgreen"}}>blog</a></p>
