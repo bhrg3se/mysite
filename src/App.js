@@ -19,7 +19,7 @@ class App extends Component {
 
             <Avatar  size="100" round={true} src={avatar} />
 
-            <img src={notBug}/>
+            <img src={notBug} alt={""}/>
           <p>
             Hi
           </p>
