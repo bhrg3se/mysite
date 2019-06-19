@@ -2,7 +2,7 @@
   "name": "bhargab.com.np",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhrg3se.gitlab.io/",
+  "homepage": ".",
   "dependencies": {
     "caniuse-lite": "^1.0.30000974",
     "react": "^16.7.0",
