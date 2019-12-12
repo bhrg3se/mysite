@@ -24,8 +24,9 @@ class App extends Component {
             Hi
           </p>
             <p>I am a full stack developer from Nepal.</p>
-            <p>Besides programming, I love movies, psychology and philosophy  .</p>
-            <p>AND MEMES!!!</p>
+            <p>There is no ester egg in this website. This is just a react bootstrap .</p>
+            <p>Nothing to see here</p>
+
 
             <p>It ain't much but check out my <a href={"https://blog.bhargab.com.np"} style={{color:"darkgreen"}}>blog</a></p>
           <div className={"Social-icons"} about={"Meh"}>

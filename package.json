@@ -2,15 +2,15 @@
   "name": "bhargab.com.np",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhargab.com.np/mysite/",
+  "homepage": "https://bhargab.com.np/",
   "dependencies": {
-    "caniuse-lite": "^1.0.30000974",
-    "react": "^16.7.0",
-    "react-avatar": "^3.5.0",
-    "react-dom": "^16.7.0",
-    "react-particles-js": "^2.4.2",
-    "react-scripts": "2.1.3",
-    "semantic-ui-react": "^0.84.0"
+    "caniuse-lite": "^1.0.30001015",
+    "react": "^16.12.0",
+    "react-avatar": "^3.7.0",
+    "react-dom": "^16.12.0",
+    "react-particles-js": "^2.7.0",
+    "react-scripts": "3.3.0",
+    "semantic-ui-react": "^0.88.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,11 +27,9 @@
     "browserslist": "4.6.2",
     "caniuse-lite": "1.0.30000974"
   },
-  "browserslist": [
-
-  ],
+  "browserslist": [],
   "devDependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "react-social-icons": "^4.1.0"
   }
 }
