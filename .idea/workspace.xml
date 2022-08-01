@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe4b52d-8076-46e3-9406-bcbb4396dfce" name="Default" comment="images fixed">
-      <change afterPath="$PROJECT_DIR$/static/CNAME" afterDir="false" />
+    <list default="true" id="9fe4b52d-8076-46e3-9406-bcbb4396dfce" name="Default" comment="domain">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
@@ -148,7 +147,7 @@
       <workItem from="1659334837319" duration="1143000" />
       <workItem from="1659346571158" duration="2263000" />
       <workItem from="1659349661768" duration="3844000" />
-      <workItem from="1659367007633" duration="2328000" />
+      <workItem from="1659367007633" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="Hello world">
       <created>1548596706078</created>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659369026314</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="domain">
+      <created>1659369592891</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1659369592892</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +343,8 @@
     <MESSAGE value="dating profile added" />
     <MESSAGE value="build" />
     <MESSAGE value="images fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="images fixed" />
+    <MESSAGE value="domain" />
+    <option name="LAST_COMMIT_MESSAGE" value="domain" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
