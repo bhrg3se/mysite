@@ -60,13 +60,14 @@ I am a software engineer. Trying to learn blockchain.
 - I am trying to work out every day.
 
 
-### Internet people I like
+### Internet people I like (incomplete)
 - @Aella_Girl
 - @balajis
 - @Austen
 - @paulg
 - @visakanv
 - @mattyglesias
+- @SteveStuWill
 - Taika Waititi
 - Dan Harmon
 - Stephen Woodford (Rationality rules)
