@@ -29,6 +29,12 @@ I like lists. Long texts bore me.
 I play Catan and Dominion.  
 I also used to attend a local board games events regularly until the community died.  
 
+### Movies
+thrillers, horrors, wholesome, indie
+- Midsommar (2018)
+- Little Miss Sunshine
+- Taika Waititi
+
 
 ### Tech
 I am a software engineer. Trying to learn blockchain.
@@ -45,7 +51,7 @@ I am a software engineer. Trying to learn blockchain.
 - Animated series like South Park, Futurama, Bob's Burgers, Rick and Morty etc.
 - British panel shows
 - A bit of dark humour
-- Bill Burr, Sarah Millican, James Acaster, Sean Lock
+- Bill Burr, Sarah Millican, James Acaster, Sean Lock, Key and Peele
 
 ### Podcasts
 - Tim Ferriss 
